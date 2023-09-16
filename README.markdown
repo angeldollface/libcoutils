@@ -49,7 +49,6 @@ make perm
 ```
 
 - 6.) Copy the file `lib/libcoutils.h` to your own C project.
-`
 
 ## CHANGELOG :black_nib:
 
