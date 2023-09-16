@@ -11,4 +11,4 @@ jobs:
         run: make && make perm
 
       - name: "Run tests."
-        run: ./tests
+        run: ./tester
