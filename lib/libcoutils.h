@@ -47,17 +47,6 @@ int str_is_int(char subject[]){
     return result;
 }
 
-// This function retrieves
-// the number of elements
-// in a string array.
-int get_arr_len(char** arr){
-    int count = 0;
-    while (arr[count] != NULL) {
-        ++count;
-    }
-    return count;
-}
-
 // This function retrieves the number of lines
 // in a text file and returns this length
 // as an integer.
