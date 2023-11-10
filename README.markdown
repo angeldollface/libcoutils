@@ -1,6 +1,6 @@
 # LIBCOUTILS  :hammer: :gear: :pick: 
 
-![GitHub CI](https://github.com/angeldollface/libcoutils/actions/workflows/clang.yml/badge.svg)
+![GitHub CI](https://github.com/angeldollface/libcoutils/actions/workflows/main.yml/badge.svg)
 
 ***A set of utility functions for the C programming language. :hammer: :gear: :pick:***
 
@@ -13,7 +13,7 @@ This repository contains a collection of utility functions that are useful and c
 Make sure you have the following tools installed and available as commands from a terminal session:
 
 - Git
-- Clang
+- The GNU C Compiler
 - CMake
 
 To use ***LibCoutils***, follow these steps:
